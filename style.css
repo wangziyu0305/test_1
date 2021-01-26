@@ -1,0 +1,50 @@
+#Phone{
+    width:220px;
+    height:450px;
+    border:2px solid rgba(187,177,160,0.877); /*边框，土豪金*/
+    border-radius: 30px;
+}
+#top{
+    width:100%;   /*顶部*/
+    height: 25px;
+    display: flex;
+    justify-content: center;
+}
+#dot{
+    background-color: black;
+    width: 5px;
+    height: 5px;
+    border-radius: 10px;
+    margin-top:10px;
+
+}
+#music{
+    background-color: black;
+    height: 8px;
+    width: 50px;
+    margin: auto;
+    border-radius: 15px;
+}
+#camera{
+    background-color: black;
+    height: 8px;
+    width: 8px;
+    position: absolute;
+    left: 75px;
+    border-radius: 10px;
+}
+#screen{
+    background-color: black;
+    width:200px;
+    height: 330px;
+    margin: auto;
+    margin-top: 25px;
+}
+#button1{
+    width:35px;
+    height: 35px;
+    border-radius: 30px;
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid rgb(216,212,213);
+}
