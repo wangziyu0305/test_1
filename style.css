@@ -1,11 +1,11 @@
 #Phone{
     width:220px;
     height:450px;
-    border:2px solid rgba(187,177,160,0.877); /*边框，土豪金*/
+    border:2px solid rgba(187,177,160,0.877);
     border-radius: 30px;
 }
 #top{
-    width:100%;   /*顶部*/
+    width:100%;
     height: 25px;
     display: flex;
     justify-content: center;
